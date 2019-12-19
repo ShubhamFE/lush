@@ -1,0 +1,12 @@
+.background {
+    background-image: url(../images/background/construction.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    widows: 80vw;
+}
+
+* {
+    font-family: 'Oxygen', sans-serif;
+}

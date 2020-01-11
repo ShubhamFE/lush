@@ -106,7 +106,6 @@ html {
 
  .main3 p {
      letter-spacing: 0.1rem;
-     width: 70%;
      line-height: 2rem;
  }
 
@@ -149,7 +148,6 @@ html {
 
  .main5 p {
     letter-spacing: 0.1rem;
-     width: 70%;
      line-height: 2rem;
  }
 
@@ -192,7 +190,6 @@ html {
 
  .main7 p {
     letter-spacing: 0.1rem;
-     width: 70%;
      line-height: 2rem;
  }
 
@@ -428,3 +425,4 @@ html {
         justify-content: center;
     }
 }
+
